@@ -1,0 +1,15 @@
+# Версии пакетов использовались по умолчанию из Google Colab
+# Так что возможно подойдут более старые версии пакетов
+numpy>=2.3.0
+
+ipykernel>=6.29.5
+
+torch>=2.6.0
+transformers>=4.52.4
+peft
+scikit-learn>=1.7.0
+datasets>=3.6.0
+accelerate>=1.7.0
+
+tqdm>=4.67.1
+Levenshtein>=0.27.1
